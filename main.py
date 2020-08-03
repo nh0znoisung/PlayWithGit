@@ -20,7 +20,8 @@ def numIdenticalPairs(nums):
     print(ans)
     return
 
-
+def add(x,y):
+    return x+y
 
 if __name__ == "__main__":
     numIdenticalPairs([1,1,2,3]) 
