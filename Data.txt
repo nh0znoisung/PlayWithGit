@@ -1,0 +1,13 @@
+Data of Candidates: https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_l%C3%AAn_%C4%91%E1%BB%89nh_Olympia_n%C4%83m_th%E1%BB%A9_18
+Data of Student in CSE of HCMUT2019: DanhSachPhanLopSVK19.xlsx
+Time to debut: https://vtv.vn/truyen-hinh-truc-tuyen/vtv3/duong-len-dinh-olympia-0.htm
+
+We will match the name of data of Cadidates participated in that constest with the student is learning around me.
+Use beautifulSoup and scarw data of web api with request to access to the data of the array, and find how many the name appear in the list of candidate.
+0Times : never
+1TImes : GO to weeks competition.
+2 TImes: Go to Months competition.
+3Times: Go to Trimester competiontion
+4 Times: Go to Years competition.
+This is a scraping data in web application with BS4 and request 
+Read file excel and csv with pandas and numpy
