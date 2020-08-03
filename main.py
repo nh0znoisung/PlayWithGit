@@ -1,5 +1,4 @@
 
-#%%
 def numIdenticalPairs(nums):
     
     
@@ -24,8 +23,8 @@ def numIdenticalPairs(nums):
 
 
 if __name__ == "__main__":
-    numIdenticalPairs([1,1,1,1]) 
+    numIdenticalPairs([1,1,2,3]) 
 
 
 
-# %%
+
